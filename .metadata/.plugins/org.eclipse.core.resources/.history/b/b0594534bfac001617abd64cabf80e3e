@@ -90,7 +90,7 @@
 #define TI_CC_SPI_USCIB0_SOMI   BIT2
 #define TI_CC_SPI_USCIB0_UCLK   BIT3
 */
-//this is the code we are using
+
 //USCIB0 for eZ430-RF2500
 #define TI_CC_SPI_USCIB0_PxSEL  P1SEL
 #define TI_CC_SPI_USCIB0_PxDIR  P1DIR
