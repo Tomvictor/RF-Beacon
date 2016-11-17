@@ -1,1 +1,0 @@
-"./CC1100-CC2500.obj" "./TI_CC_spi.obj" "./main.obj" "../lnk_msp430g2553.cmd" -llibc.a 
